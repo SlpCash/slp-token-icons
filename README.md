@@ -1,26 +1,26 @@
 # SLP Token Icons
 
-A hosted repository of all known SLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.bch.sx/`[size]`/`[txid]`.png
+A hosted repository of all known SLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.bch.sx/`[24x24]`/`[8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598]`.png
 
 ## Usage
 
-The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
+The format is tokens.bch.sx/`{60x60}`/`{8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598}`.`{jpg}`
 
-`{size}` can be any number from 1-2399 (or "original")
+`{128x128}` can be any number from 1-2399 (or "original")
 
-`{txid}` is the transaction id of the token genesis transaction
+`{8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598}` is the transaction id of the token genesis transaction
 
-`{format}` can be png, jpg, tiff or webp
+`{jpg}` can be png, jpg, tiff or webp
 
 ## Examples
 
-`https://tokens.bch.sx/128/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/128/8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598.png`
 
-`https://tokens.bch.sx/64/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/64/8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598.png`
 
-`https://tokens.bch.sx/32/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/32/8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598.png`
 
-`https://tokens.bch.sx/original/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/original/8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598.png`
 
 ## Adding your icon
 
