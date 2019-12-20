@@ -1,16 +1,16 @@
 # SLP Token Icons
 
-A hosted repository of all known SLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.bch.sx/`[32x32]`/`[8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598]`.png
+A hosted repository of all known SLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.bch.sx/`[128x128]`/`[8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598]`.png
 
 ## Usage
 
 The format is tokens.bch.sx/`{64x64}`/`{8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598}`.`{jpg}`
 
-`{128x128}` can be any number from 1-2399 (or "original")
+`{32x32}` can be any number from 1-2399 (or "original")
 
 `{8fdfcaa9cdd0ba5ce23cd7158b1389839a264c0efd017655d01c39faf6c83598}` is the transaction id of the token genesis transaction
 
-`{jpg}` can be png, jpg, tiff or webp
+`{https://user-images.githubusercontent.com/59075781/71229671-10b9fb80-2319-11ea-876d-efd93261f01b.jpg}` can be png, jpg, tiff or webp
 
 ## Examples
 
